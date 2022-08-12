@@ -14,12 +14,11 @@ do{
 
 ```
 
-
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My Activity </h2>
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=SmitDasadia&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="Smit Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=SmitDasadia&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 <details> 
